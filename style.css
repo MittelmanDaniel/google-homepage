@@ -1,0 +1,35 @@
+main{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    
+
+}
+#logo{
+    display:flex;
+    width:272px;
+    height:92px;
+    
+}
+#searchbox{
+    display:flex;
+
+    flex-basis: auto;
+    width:584px;
+    max-width: 584px;
+    border: 1px solid #dfe1e5;
+    border-radius: 30px;
+     
+}
+#icon{
+    width:20px;
+    height:20px;
+}
+#text-input{
+    display: block;
+    width: auto;
+    padding: 10px;
+    margin: 0 auto;
+    
+    
+}
