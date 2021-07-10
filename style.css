@@ -193,6 +193,9 @@ footer{
     font-size: 14px;
     margin: 12px 0px 0px 23px;
 }
+.foot:hover{
+    text-decoration: underline;
+}
 #botright{
     flex-grow: 1;
     display:flex;
@@ -206,4 +209,7 @@ footer{
     font-family: arial, sans-serif;
     font-size: 14px;
     margin: 12px 0px 0px 23px;
+}
+.footright:hover{
+    text-decoration: underline;
 }
